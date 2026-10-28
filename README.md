@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/Klez-src/nz/main/image_2025-09-13_154719744.png" width="100" />
+  <img src="https://avatars.githubusercontent.com/u/271989644?v=4" width="100" />
 </p>
 
 <p>
