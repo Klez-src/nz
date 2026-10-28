@@ -1,8 +1,4 @@
 <p>
-  <img src="ec5d9d01-a206-42c8-bf95-c154bbf16aa5_removalai_preview.png" width="200" />
-</p>
-
-<p>
   <img src="https://api.iconify.design/lucide/cake-slice.svg?color=%23B8B8C0" width="16" height="16" align="absmiddle" /> &nbsp; <code>18yo</code><br />
   <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23B8B8C0" width="16" height="16" align="absmiddle" /> &nbsp; <code>Belfast, Northern Ireland</code>
 </p>
