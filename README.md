@@ -1,5 +1,5 @@
 <p>
-  <img src="https://avatars.githubusercontent.com/u/271989644?v=4" width="100" />
+  <img src="ec5d9d01-a206-42c8-bf95-c154bbf16aa5_removalai_preview.png" width="200" />
 </p>
 
 <p>
