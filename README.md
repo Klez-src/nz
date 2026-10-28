@@ -1,7 +1,10 @@
+<div align="left">
 
-<img src="image_2025-09-13_154719744.png" width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/Klez-src?v=4" width="100" height="100" />
 
-![People](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) `Developer`  
-![Location](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) `United Kingdom`
+![developer](https://img.shields.io/badge/%E2%80%A2-developer-111111?style=flat-square&labelColor=111111&color=111111)
+![location](https://img.shields.io/badge/united%20kingdom-111111?style=flat-square&label=location&labelColor=111111)
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=Klez-src&leftColor=1E232A&rightColor=D2DCF6&type=unique&label=Views&style=lower)
+![views](https://views-counter.vercel.app/badge?pageId=Klez-src&leftColor=0A0A0A&rightColor=191919&type=unique&label=views&style=flat)
+
+</div>
