@@ -1,13 +1,12 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Klez-src/nz/main/image_2025-09-13_154719744.png" width="96" />
+<p>
+  <img src="https://raw.githubusercontent.com/Klez-src/nz/main/image_2025-09-13_154719744.png" width="100" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/◷-YOUR_AGE-17151F?style=flat-square&labelColor=17151F" alt="Age" />
-  <img src="https://img.shields.io/badge/⌖-YOUR_LOCATION-17151F?style=flat-square&labelColor=17151F" alt="Location" />
+  <img src="https://api.iconify.design/lucide/cake-slice.svg?color=%238B7BFF" width="16" height="16" align="absmiddle" /> &nbsp; <code>18yo</code><br />
+  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238B7BFF" width="16" height="16" align="absmiddle" /> &nbsp; <code>Belfast, Northern Ireland</code>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PROFILE-VIEWS-17151F?style=flat-square&labelColor=17151F" alt="Profile views" />
-  <img src="https://views-counter.vercel.app/badge?pageId=Klez-src&leftColor=17151F&rightColor=8B5CF6&type=unique&label=views&style=flat" alt="Views counter" />
+  <img src="https://views-counter.vercel.app/badge?pageId=Klez-src&leftColor=171717&rightColor=8B7BFF&type=unique&label=views&style=flat" alt="Profile views" />
 </p>
