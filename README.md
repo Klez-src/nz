@@ -8,5 +8,5 @@
 </p>
 
 <p>
-  ![views](https://views-counter.vercel.app/badge?pageId=Klez-src&leftColor=1E242A&rightColor=1E242A&type=unique&label=views&style=flat)
+  <img src="https://views-counter.vercel.app/badge?pageId=Klez-src&leftColor=1E242A&rightColor=1E242A&type=unique&label=views&style=flat" alt="Profile views" />
 </p>
